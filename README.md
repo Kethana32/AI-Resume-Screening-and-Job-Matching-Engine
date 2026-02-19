@@ -1,4 +1,6 @@
-**Download the .ipynb file to preview it**
+**Download the .ipynb file to preview it**.
+
+
 **NOTE**: Resume data of our project has not been uploaded directly due to the github's "size limitations". 
 Download it from the below link:
 ### https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset? 
